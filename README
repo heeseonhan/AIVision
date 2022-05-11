@@ -1,3 +1,14 @@
 Intro
 # DATA
 # NILMTK/CNN/RNN
+# >conda install -n nilmtk-env -c omnia hmmlearn
+#>pip install https://github.com/nilmtk/nilm_metadata/archive/master.zip#egg=nilm_metadata
+# >pip install https://github.com/nilmtk/nilmtk/archive/master.zip#egg=nilmtk
+# >conda install -n nilmtk-env numpy matplotlib pandas pydotplus h5py scikit-learn
+#>conda install -n nilmtk-env scipy mkl-service libpython m2w64-toolchain theano
+#>conda install -n nilmtk-env tensorflow install keras
+#설치된 keras 삭제하고 1.1버전으로 재설치
+#>conda remove --name nilmtk-env keras
+#>conda install -n nilmtk-env keras=1.2.2
+#> conda install -n nilmtk-env mkl=2017
+#> conda install -n nilmtk-env pandas=0.19.2
